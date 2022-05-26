@@ -1,2 +1,2 @@
 # learn
-to test 
+test rapo faor git commands 
